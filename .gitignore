@@ -30,12 +30,4 @@ replay_pid*
 
 # Maven
 .mvn/
-target/
-
-# JavaFX
-/out/ 
-/fxbuild/ 
-*.jmod        
-
-# Scene Builder
-*.fxml~  
+target/  
